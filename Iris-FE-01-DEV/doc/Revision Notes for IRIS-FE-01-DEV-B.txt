@@ -1,0 +1,5 @@
+Revision Notes for Revision C
+
+1.	10/5/16 - It seems like the pullup resistor values could be reduced a bit (by half, say) to decrease rise time and provide more of a margin for signaling. This has no produced any problems yet, but it would be good design practice.
+
+2.	10/5/16 - The #RESET signal should be a 3.3V signal. Two options: A) use a transistor to pulldown the reset signal with the 1.8V control voltage and allow it to rise to 3.3V via a pullup; B) permanently keep reset at 3.3V and rely on the POR to reset the chip when initialized. I’m leaning towards the latter.
