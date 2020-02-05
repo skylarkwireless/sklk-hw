@@ -1,0 +1,15 @@
+Altium Designer Pick and Place Locations
+C:\Users\me\git\sklk-hw\UU-PCBA-MANT\altium\Outputs\UU-PCBA-MANT-CON\Pick Place\Pick Place for UU-PCBA-MANT-CON-AA.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       05/02/20
+Time:       10:08
+Revision:   30eea2fa9312297f23f3a6c9b4dad9ec757f1667
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"J2","MCX Male","BottomLayer","RSP-199156-01","19.7564","19.0000","180","Samtec MODIFIED 50 OHM MCX JACK PLUG, THROUGH-HOLE"
+"J1","MCX Male","BottomLayer","RSP-199156-01","44.2564","19.0000","180","Samtec MODIFIED 50 OHM MCX JACK PLUG, THROUGH-HOLE"
