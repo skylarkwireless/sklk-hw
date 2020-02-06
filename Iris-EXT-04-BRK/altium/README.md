@@ -1,5 +1,7 @@
 # Iris-EXT-04-BRK Altium Design Project
 
+![IRIS-EXT-04-BRK Board Rev AA CAD Image](../images/IRIS-EXT-04-BRK_CAD3D.png)
+
 This design has been manufactured and validated. Please note that silkscreen labels have changed between this library version and the product images presented in these readme files.
 
 ## Project
