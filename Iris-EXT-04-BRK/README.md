@@ -1,11 +1,9 @@
 # Iris-EXT-04-BRK
 
-![IRIS-EXT-04-BRK Board Rev AA CAD Model](/Iris-EXT-04-BRK/images/IRIS-EXT-04-BRK_CAD3D.png)
-
 ![IRIS-EXT-04-BRK Board Rev AA Product Image](/Iris-EXT-04-BRK/images/IRIS-EXT-04-BRK-Top-800x800.png)
 
-Wideband development RF front-end for [Skylark Wireless](http://www.skylarkwireless.com) IRIS Software Defined Radio (SDR) platforms that supports 2x2 TDD or FDD MIMO operation between 50 - 3800 MHz.
-The Iris-FE-01-DEV provides a starting point for developing custom RF front-ends and provides no filtering or amplification.
+MIMO bus breakout board for the IRIS-030 SDR platform. With breakout for both upstream and downstream MIMO connectors, the IRIS-EXT-04-BRK allows construction of unique clocking, data, and testing topologies.
+The IRIS-EXT-04-BRK provides a starting point for developing custom modular components that connect to an Iris-030 software-defined radio platform and either communicate on or are powered by the Iris MIMO bus.
 Project developed and packaged with Altium Designer 20.0.11.
 
 ## Contents
@@ -13,11 +11,11 @@ Project developed and packaged with Altium Designer 20.0.11.
 
 The directory structure is as follows:
          
-      altium/                  - Altium Designer 20.0.11 Project
+     altium/                  - Altium Designer 20.0.11 project and libraries
 
-      doc/                     - Circuit schematics and related documentation
+     doc/                     - Circuit schematics and related documentation
 	  
-	  images/                  - 3D Renders and photos of the finished design
+     images/                  - 3D Renders and photos of the finished design
 
 ## License
 
