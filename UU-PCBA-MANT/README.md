@@ -1,6 +1,6 @@
 # `UU-PCBA-MANT-CON-AA` and `UU-PCBA-MANT-PAT-AA`
 
-![UU-PCBA-MANT Antenna Revision AA](/UU-PCBA-MANT/images/UU-PCBA-MANT-AAA-AA.PNG)
+![UU-PCBA-MANT Antenna Revision AA](/UU-PCBA-MANT/images/UU-PCBA-MANT-AAA-AA-02.PNG)
 
 Open-source design for a dual-band 2.5/3.6 GHz BRS/CBRS antenna with dual-polarized feeds for Massive MIMO.
 
