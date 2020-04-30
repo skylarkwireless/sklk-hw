@@ -2,6 +2,24 @@
 FileName = UU-PCBA-MANT-CON-AA.GBR
 AutoAperture = True
 *************************************************************
+Generating : Top Layer
+      File : UU-PCBA-MANT-CON-AA.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : SIG-Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
 Generating : SIG-Outline
       File : UU-PCBA-MANT-CON-AA.GM2
 
@@ -77,24 +95,6 @@ Generating : Bottom Layer
       File : UU-PCBA-MANT-CON-AA.GBL
 
     Adding Layer      : Bottom Layer
-
-    Adding Layer      : SIG-Outline
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : UU-PCBA-MANT-CON-AA.GTL
-
-    Adding Layer      : Top Layer
 
     Adding Layer      : SIG-Outline
 
