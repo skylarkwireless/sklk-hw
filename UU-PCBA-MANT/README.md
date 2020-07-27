@@ -1,6 +1,6 @@
 # `UU-PCBA-MANT-CON-AA` and `UU-PCBA-MANT-PAT-AA`
 
-![UU-PCBA-MANT Antenna Revision AA](/UU-PCBA-MANT/images/UU-PCBA-MANT-AAA-AA.PNG)
+![UU-PCBA-MANT Antenna Revision AA](/UU-PCBA-MANT/images/UU-PCBA-MANT-AAA-AA.jpg)
 
 
 
