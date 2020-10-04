@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=UU-PCBA-MANT-CON-AA.PcbDoc
+DocumentPath=UU-PCBA-MANT-CON-AB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -123,7 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BJSYBGOQ
 
 [Document6]
-DocumentPath=UU-PCBA-MANT-PAT-AA.PcbDoc
+DocumentPath=UU-PCBA-MANT-PAT-AB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139,6 +139,114 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NVNKOLTL
 
+[GeneratedDocument1]
+DocumentPath=Outputs\UU-PCBA-MANT-CON\Pick Place\Pick Place for UU-PCBA-MANT-CON-AB.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Outputs\UU-PCBA-MANT-CON\Pick Place\Pick Place for UU-PCBA-MANT-CON-AB.txt
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Outputs\UU-PCBA-MANT-CON\NC Drill\UU-PCBA-MANT-CON-AB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Outputs\UU-PCBA-MANT-CON\Gerber\UU-PCBA-MANT-CON-AB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Outputs\UU-PCBA-MANT-CON\Gerber\UU-PCBA-MANT-CON-AB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Outputs\UU-PCBA-MANT-CON\Gerber\UU-PCBA-MANT-CON-AB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Outputs\UU-PCBA-MANT-CON\Gerber\UU-PCBA-MANT-CON-AB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Outputs\UU-PCBA-MANT-CON\Gerber\UU-PCBA-MANT-CON-AB.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Outputs\UU-PCBA-MANT-CON\Gerber\UU-PCBA-MANT-CON-AB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Outputs\UU-PCBA-MANT-CON\Gerber\UU-PCBA-MANT-CON-AB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Outputs\UU-PCBA-MANT-CON\NC Drill\UU-PCBA-MANT-CON-AB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Outputs\UU-PCBA-MANT-CON\Gerber\UU-PCBA-MANT-CON-AB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Outputs\UU-PCBA-MANT-CON\Gerber\UU-PCBA-MANT-CON-AB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Outputs\UU-PCBA-MANT-CON\ExportSTEP\UU-PCBA-MANT-CON-AB.step
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Outputs\UU-PCBA-MANT-CON\NC Drill\UU-PCBA-MANT-CON-AB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Outputs\UU-PCBA-MANT-CON\Report Board Stack\UU-PCBA-MANT-CON-AB.xls
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Outputs\UU-PCBA-MANT-PAT\NC Drill\UU-PCBA-MANT-PAT-AB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Outputs\UU-PCBA-MANT-PAT\Gerber\UU-PCBA-MANT-PAT-AB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Outputs\UU-PCBA-MANT-PAT\Gerber\UU-PCBA-MANT-PAT-AB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Outputs\UU-PCBA-MANT-PAT\Gerber\UU-PCBA-MANT-PAT-AB.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Outputs\UU-PCBA-MANT-PAT\Gerber\UU-PCBA-MANT-PAT-AB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Outputs\UU-PCBA-MANT-PAT\NC Drill\UU-PCBA-MANT-PAT-AB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Outputs\UU-PCBA-MANT-PAT\Gerber\UU-PCBA-MANT-PAT-AB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Outputs\UU-PCBA-MANT-PAT\Gerber\UU-PCBA-MANT-PAT-AB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Outputs\UU-PCBA-MANT-PAT\ExportSTEP\UU-PCBA-MANT-PAT-AB.step
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Outputs\UU-PCBA-MANT-PAT\NC Drill\UU-PCBA-MANT-PAT-AB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Outputs\UU-PCBA-MANT-PAT\Report Board Stack\UU-PCBA-MANT-PAT-AB.xls
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -149,10 +257,13 @@ OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
+[Generic_EDE]
+OutputDir=
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Brother HL-L8350CDW Printer
+TargetPrinter=Xerox VersaLink C400 (66:13:e0)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -258,7 +369,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother HL-L8350CDW Printer
+TargetPrinter=Xerox VersaLink C400 (66:13:e0)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -336,7 +447,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Brother HL-L8350CDW Printer
+TargetPrinter=Xerox VersaLink C400 (66:13:e0)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -358,7 +469,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Brother HL-L8350CDW Printer
+TargetPrinter=Xerox VersaLink C400 (66:13:e0)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -430,7 +541,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Brother HL-L8350CDW Printer
+TargetPrinter=Xerox VersaLink C400 (66:13:e0)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -467,7 +578,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Brother HL-L8350CDW Printer
+TargetPrinter=Xerox VersaLink C400 (66:13:e0)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -647,7 +758,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Brother HL-L8350CDW Printer
+TargetPrinter=Xerox VersaLink C400 (66:13:e0)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -691,7 +802,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Brother HL-L8350CDW Printer
+TargetPrinter=Xerox VersaLink C400 (66:13:e0)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -752,7 +863,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Brother HL-L8350CDW Printer
+TargetPrinter=Xerox VersaLink C400 (66:13:e0)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
