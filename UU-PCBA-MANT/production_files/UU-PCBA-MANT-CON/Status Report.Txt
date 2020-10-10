@@ -1,0 +1,10 @@
+Output: UU-PCBA-MANT-CON Board Stack
+Type  : Report Board Stack
+From  : PCB Document [UU-PCBA-MANT-CON-AB.PcbDoc]
+   Generated File[UU-PCBA-MANT-CON-AB.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:55:28 PM On 10/10/2020
