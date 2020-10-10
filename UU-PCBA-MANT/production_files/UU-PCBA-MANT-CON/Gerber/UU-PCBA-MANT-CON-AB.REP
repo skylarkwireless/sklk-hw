@@ -1,0 +1,111 @@
+*************************************************************
+FileName = UU-PCBA-MANT-CON-AB.GBR
+AutoAperture = True
+*************************************************************
+Generating : SIG-Outline
+      File : UU-PCBA-MANT-CON-AB.GM2
+
+    Adding Layer      : SIG-Outline
+
+    Adding Layer      : SIG-Outline
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : UU-PCBA-MANT-CON-AB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : SIG-Outline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : UU-PCBA-MANT-CON-AB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : SIG-Outline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : UU-PCBA-MANT-CON-AB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : SIG-Outline
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : UU-PCBA-MANT-CON-AB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : SIG-Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : UU-PCBA-MANT-CON-AB.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : SIG-Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+

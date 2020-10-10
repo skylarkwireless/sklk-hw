@@ -1,5 +1,0 @@
-DRC Rules Export File for PCB: C:\Users\NPHarder\git\sklk-hw\UU-PCBA-MANT\altium\UU-PCBA-MANT-CON-AA.PcbDoc
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=0.39
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
